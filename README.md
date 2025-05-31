@@ -28,20 +28,12 @@
 
 ## 🏆 Top Contributed Repo
 
-<div align="left">
+**Muhammad Awab Sial's GitHub Contributor Stats**
 
-**<span style="color:#e84393; font-size:1.25em;">Hamza Afzal's GitHub Contributor Stats</span>**
-
-🏆 **Repository** &nbsp; ⭐
-
-<br/>
-
-| | Repository | Rank |
-|:-:|:---|:---:|
-| <img src="https://avatars.githubusercontent.com/Hamza2-2" width="28" style="border-radius:50%"/> | [Wordscapes](https://github.com/Hamza2-2/Wordscapes) | 🅱️ |
-| <img src="https://avatars.githubusercontent.com/Hamza2-2" width="28" style="border-radius:50%"/> | [Emotion-Classification-AI](https://github.com/Hamza2-2/Emotion-Classification-AI) | 🅱️ |
-| <img src="https://avatars.githubusercontent.com/Hamza2-2" width="28" style="border-radius:50%"/> | [Pokemon-Game](https://github.com/Hamza2-2/Pokemon-Game) | 🅱️ |
-| <img src="https://avatars.githubusercontent.com/Hamza2-2" width="28" style="border-radius:50%"/> | [Mobile-Application-Development-MAD-Hamza-Afzal-Futter-Docs-Application](https://github.com/Hamza2-2/Mobile-Application-Development-MAD-Hamza-Afzal-Futter-Docs-Application) | 🅱️ |
-| <img src="https://avatars.githubusercontent.com/Hamza2-2" width="28" style="border-radius:50%"/> | [MAD_LAB_FINAL_060_hamza](https://github.com/Hamza2-2/MAD_LAB_FINAL_060_hamza) | 🅱️ |
-
-</div>
+| 🏆 Repository                        |    |
+|--------------------------------------|:--:|
+| ![avatar](https://avatars.githubusercontent.com/u/0000001?v=4) **Human-Action-Recognition** | 🅱️ |
+| ![avatar](https://avatars.githubusercontent.com/u/0000001?v=4) **Online-Examination-System** | 🅱️ |
+| ![avatar](https://avatars.githubusercontent.com/u/0000001?v=4) **Chatter-App** | 🅱️ |
+| ![avatar](https://avatars.githubusercontent.com/u/0000001?v=4) **awab-sial** | 🅱️ |
+| ![avatar](https://avatars.githubusercontent.com/u/0000001?v=4) **Competition-Management-System** | 🅱️ |
