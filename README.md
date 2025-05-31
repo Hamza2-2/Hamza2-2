@@ -24,3 +24,16 @@
 
 ## 💬 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## 🚀 Top Repositories
+
+| ⭐️ Repository | Description |
+|--------------|-------------|
+| [Wordscapes](https://github.com/Hamza2-2/Wordscapes) | A Word Guessing Game (C++) |
+| [Emotion-Classification-AI](https://github.com/Hamza2-2/Emotion-Classification-AI) | Emotion Classification AI Model with Real-Time and Static Testing (Python) |
+| [Pokemon-Game](https://github.com/Hamza2-2/Pokemon-Game) | A Pokemon CLI Based Game (C++) |
+| [Mobile-Application-Development-MAD-Hamza-Afzal-Futter-Docs-Application](https://github.com/Hamza2-2/Mobile-Application-Development-MAD-Hamza-Afzal-Futter-Docs-Application) | Mobile App Development Project (C++) |
+| [MAD_LAB_FINAL_060_hamza](https://github.com/Hamza2-2/MAD_LAB_FINAL_060_hamza) | Final Lab Project (C++) |
+
+<!-- You can add more repos and descriptions as needed -->
