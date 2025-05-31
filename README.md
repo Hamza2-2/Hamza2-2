@@ -26,14 +26,4 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🏆 Top Contributed Repo
-
-**Muhammad Awab Sial's GitHub Contributor Stats**
-
-| 🏆 Repository                        |    |
-|--------------------------------------|:--:|
-| ![avatar](https://avatars.githubusercontent.com/u/0000001?v=4) **Human-Action-Recognition** | 🅱️ |
-| ![avatar](https://avatars.githubusercontent.com/u/0000001?v=4) **Online-Examination-System** | 🅱️ |
-| ![avatar](https://avatars.githubusercontent.com/u/0000001?v=4) **Chatter-App** | 🅱️ |
-| ![avatar](https://avatars.githubusercontent.com/u/0000001?v=4) **awab-sial** | 🅱️ |
-| ![avatar](https://avatars.githubusercontent.com/u/0000001?v=4) **Competition-Management-System** | 🅱️ |
+ 
