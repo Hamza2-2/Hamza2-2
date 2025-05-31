@@ -26,14 +26,22 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🚀 Top Repositories
+## 🏆 Top Contributed Repo
 
-| ⭐️ Repository | Description |
-|--------------|-------------|
-| [Wordscapes](https://github.com/Hamza2-2/Wordscapes) | A Word Guessing Game (C++) |
-| [Emotion-Classification-AI](https://github.com/Hamza2-2/Emotion-Classification-AI) | Emotion Classification AI Model with Real-Time and Static Testing (Python) |
-| [Pokemon-Game](https://github.com/Hamza2-2/Pokemon-Game) | A Pokemon CLI Based Game (C++) |
-| [Mobile-Application-Development-MAD-Hamza-Afzal-Futter-Docs-Application](https://github.com/Hamza2-2/Mobile-Application-Development-MAD-Hamza-Afzal-Futter-Docs-Application) | Mobile App Development Project (C++) |
-| [MAD_LAB_FINAL_060_hamza](https://github.com/Hamza2-2/MAD_LAB_FINAL_060_hamza) | Final Lab Project (C++) |
+<div align="left">
 
-<!-- You can add more repos and descriptions as needed -->
+**<span style="color:#e84393; font-size:1.25em;">Hamza Afzal's GitHub Contributor Stats</span>**
+
+🏆 **Repository** &nbsp; ⭐
+
+<br/>
+
+| | Repository | Rank |
+|:-:|:---|:---:|
+| <img src="https://avatars.githubusercontent.com/Hamza2-2" width="28" style="border-radius:50%"/> | [Wordscapes](https://github.com/Hamza2-2/Wordscapes) | 🅱️ |
+| <img src="https://avatars.githubusercontent.com/Hamza2-2" width="28" style="border-radius:50%"/> | [Emotion-Classification-AI](https://github.com/Hamza2-2/Emotion-Classification-AI) | 🅱️ |
+| <img src="https://avatars.githubusercontent.com/Hamza2-2" width="28" style="border-radius:50%"/> | [Pokemon-Game](https://github.com/Hamza2-2/Pokemon-Game) | 🅱️ |
+| <img src="https://avatars.githubusercontent.com/Hamza2-2" width="28" style="border-radius:50%"/> | [Mobile-Application-Development-MAD-Hamza-Afzal-Futter-Docs-Application](https://github.com/Hamza2-2/Mobile-Application-Development-MAD-Hamza-Afzal-Futter-Docs-Application) | 🅱️ |
+| <img src="https://avatars.githubusercontent.com/Hamza2-2" width="28" style="border-radius:50%"/> | [MAD_LAB_FINAL_060_hamza](https://github.com/Hamza2-2/MAD_LAB_FINAL_060_hamza) | 🅱️ |
+
+</div>
